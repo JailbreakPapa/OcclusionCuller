@@ -1,0 +1,7 @@
+
+*.ipch
+*.vsidx
+*.db
+Polar/.vs/Polar/v17/.suo
+*.p7s
+*.lock
